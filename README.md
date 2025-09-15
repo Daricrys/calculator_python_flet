@@ -6,7 +6,7 @@
 
 ## Descrição do Projeto
 
-Este é um projeto de uma calculadora simples e funcional, criada com a biblioteca **Flet** em Python. A aplicação foi desenvolvida com o objetivo de demonstrar os recursos do Flet para a criação de interfaces de usuário (UI) de forma rápida e eficiente.
+Este é um projeto de uma calculadora simples e funcional, criada com a biblioteca **Flet** em Python. A aplicação foi desenvolvida com o objetivo de testar os recursos do Flet para a criação de interfaces de usuário (UI) de forma rápida e eficiente.
 
 A calculadora possui uma interface amigável com botões para operações básicas (+, -, *, /) e funções adicionais como porcentagem (%) e inversão de sinal (±).
 
