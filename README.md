@@ -2,7 +2,7 @@
 
 ![Flet](https://img.shields.io/badge/Flet-0.28.3-blue)
 ![Python](https://img.shields.io/badge/Python-3.13.2-yellow)
-![Status do Projeto](https://img.shields.io/badge/status-em andamento-orange)
+![Status do Projeto](https://img.shields.io/badge/status-andamento-orange)
 
 ## Descrição do Projeto
 
